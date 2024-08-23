@@ -1,6 +1,6 @@
 package Practice_java;
 
-public class if_else_Practice {
+public class if_else_Example{
 public static void main(String[] args) {    
 int x = 10;    
 int y = 12;    
