@@ -11,5 +11,4 @@ public class if_else_Practice {
 		System.out.println("x + y is greater than 20");  
 		}  
 		} 
-
 };
