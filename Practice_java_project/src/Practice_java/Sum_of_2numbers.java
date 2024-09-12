@@ -12,3 +12,9 @@ public class Sum_of_2numbers {
 	    System.out.println(sum);
 	}
 }
+
+
+
+
+
+
